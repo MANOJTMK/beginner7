@@ -2,10 +2,10 @@
 
 int main(void) 
 {
-	int n;
+	int num;
 	printf("enter the number:");
 	scanf("%d",&n);
-	if(n%7==0)
+	if(num%7==0)
 	{
 		printf("\n yes");
 	}
