@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(void) 
+void main 
 {
 	char a[100];
 	int i;
@@ -8,5 +8,5 @@ int main(void)
 	{
  
 	}
-	return 0;
+	getch();
 }
